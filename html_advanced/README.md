@@ -13,6 +13,11 @@ This repository contins the HTML files fo my webpage, which is implemented from 
 - If your computer doesn't have the require fonts, you can find them here: [source-sans-pro](https://fonts.google.com/specimen/Source+Sans+Pro) and [Spin-Cycle-OT](https://www.fontsquirrel.com/fonts/spin-cycle-ot).
 - Some values in the designer file may be in float and can be rounded off as needed.
 
+## Th figma designs
+
+- End Result ![Website Appearance](./figma_design1.jpg)
+- The planned development ![plan](./figma_design2.jpg)
+
 ## Usage
-- To view the webpage, open the 'index.html' file in a web browser.
+- To view the webpage, open the `index.html` file in a web browser.
 
